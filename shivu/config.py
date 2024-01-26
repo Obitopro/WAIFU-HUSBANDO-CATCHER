@@ -2,18 +2,18 @@ class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    OWNER_ID = "6570434731"
-    sudo_users = "6570434731", "6117482949"
-    GROUP_ID = -1002069282863
-    TOKEN = "6968464825:AAESoG4AK4LRccpTX2ksx1DEF3EZo0FExa8"
-    mongo_url = "mongodb+srv://gojox:rVs8kcY90GNYJ1tc@gojooo.ykwxy4g.mongodb.net/?retryWrites=true&w=majority"
+    OWNER_ID = "5490773419"
+    sudo_users = 5490773419"", "5490773419"
+    GROUP_ID = -1002075695525
+    TOKEN = "6586089421:AAECQGc2Ca-GwHkdhjC_yoMaIXR8oBuzQA0"
+    mongo_url = "mongodb+srv://itachi:itachi@itachi.hyhnjlq.mongodb.net/?retryWrites=true&w=majority"
     PHOTO_URL = ["https://telegra.ph/file/06355103255bdeaf79912.jpg", "https://telegra.ph/file/8d7966de81833aca719f5.jpg"]
-    SUPPORT_CHAT = "anime_savage_Group"
-    UPDATE_CHAT = "Pro_Bot_Support"
-    BOT_USERNAME = "Guess_Your_Characters_ProBot"
-    CHARA_CHANNEL_ID = "-1002104813341"
-    api_id = "27684245"
-    api_hash = "22c33e48a7697c767c5e40bda82a8db9"
+    SUPPORT_CHAT = ""
+    UPDATE_CHAT = "lootgroup25"
+    BOT_USERNAME = "Lootwaifubot"
+    CHARA_CHANNEL_ID = "1002075695525"
+    api_id = "24658337"
+    api_hash = "bf99242dbb7f3501f28d39f0a0383cbf"
 
     
 class Production(Config):
