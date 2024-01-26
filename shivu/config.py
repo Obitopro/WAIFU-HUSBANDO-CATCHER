@@ -3,13 +3,13 @@ class Config(object):
 
     # Get this value from my.telegram.org/apps
     OWNER_ID = "5490773419"
-    sudo_users = 5490773419"", "5490773419"
+    sudo_users = "2054990632", "5490773419"
     GROUP_ID = -1002075695525
     TOKEN = "6586089421:AAECQGc2Ca-GwHkdhjC_yoMaIXR8oBuzQA0"
     mongo_url = "mongodb+srv://itachi:itachi@itachi.hyhnjlq.mongodb.net/?retryWrites=true&w=majority"
     PHOTO_URL = ["https://telegra.ph/file/06355103255bdeaf79912.jpg", "https://telegra.ph/file/8d7966de81833aca719f5.jpg"]
-    SUPPORT_CHAT = ""
-    UPDATE_CHAT = "lootgroup25"
+    SUPPORT_CHAT = "lootgroup25"
+    UPDATE_CHAT = "YatoLogss"
     BOT_USERNAME = "Lootwaifubot"
     CHARA_CHANNEL_ID = "1002075695525"
     api_id = "24658337"
