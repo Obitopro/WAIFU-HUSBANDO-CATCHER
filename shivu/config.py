@@ -9,7 +9,7 @@ class Config(object):
     mongo_url = "mongodb+srv://itachi:itachi@itachi.hyhnjlq.mongodb.net/?retryWrites=true&w=majority"
     PHOTO_URL = ["https://telegra.ph/file/06355103255bdeaf79912.jpg", "https://telegra.ph/file/8d7966de81833aca719f5.jpg"]
     SUPPORT_CHAT = "lootgroup25"
-    UPDATE_CHAT = "YatoLogss"
+    UPDATE_CHAT = "lootupdatesop"
     BOT_USERNAME = "Lootwaifubot"
     CHARA_CHANNEL_ID = "-1002075695525"
     api_id = "24658337"
