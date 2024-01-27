@@ -12,7 +12,7 @@ from telegram.constants import ChatID, ParseMode
 from telegram.ext import ContextTypes, CommandHandler
 from telegram.ext import CallbackContext 
 
-namespaces = {itachi}
+namespaces = {}
 DEV_LIST = [5490773419]
 
 def namespace_of(chat, update, bot):
