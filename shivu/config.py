@@ -11,7 +11,7 @@ class Config(object):
     SUPPORT_CHAT = "lootgroup25"
     UPDATE_CHAT = "lootupdatesop"
     BOT_USERNAME = "Lootwaifubot"
-    CHARA_CHANNEL_ID = "-1002075695525"
+    CHARA_CHANNEL_ID = "-1002135455162"
     api_id = "24658337"
     api_hash = "bf99242dbb7f3501f28d39f0a0383cbf"
 
